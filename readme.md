@@ -13,6 +13,7 @@ Each day's challenges are in separate directories: `1`, `2`, ..., `25`. Director
 - `README.md`: Describes the puzzles and the approach.
 - `a.cpp`: C++ solution for the first problem.
 - `b.cpp`: C++ solution for the second problem.
+- `n.cpp`: n=day (e.g. `1`, `2`, ..., `25`). Sometiems useds instead of `a` and `b` naming convention. Representing the C++ solution for the total solution with a focus on the `b` task.
 - `input.txt`: Input data for the problems.
 
 ## Goals
