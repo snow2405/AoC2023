@@ -98,31 +98,34 @@ int main()
         }
         std::cout << endl;
     }
-
-    for (int i = 0; i < parsedData[0][0].size(); i++)
-    {
-        for (int j = 1; j < parsedData.size(); j++)
+    long long minimum = parsedData[0][0][0]*100;
+    long long minimum_location;
+    for(int x = 0; x < parsedData[0][0].size(); x+=2){
+        long long limit = parsedData[0][0][x] + parsedData[0][0][x+1];
+        for (long long i = parsedData[0][0][x]; i < limit; i++)
         {
-            for (int k = 0; k < parsedData[j].size(); k++)
+            long long seed = i;
+            for (int j = 1; j < parsedData.size(); j++)
             {
-                if (parsedData[j][k][1] <= parsedData[0][0][i] && parsedData[j][k][1] + parsedData[j][k][2] > parsedData[0][0][i])
+                for (int k = 0; k < parsedData[j].size(); k++)
                 {
-                    parsedData[0][0][i] = parsedData[0][0][i] + parsedData[j][k][0] - parsedData[j][k][1];
-                    break;
+                    if (parsedData[j][k][1] <= seed && parsedData[j][k][1] + parsedData[j][k][2] > seed)
+                    {
+                        seed = seed + parsedData[j][k][0] - parsedData[j][k][1];
+                        break;
+                    }
                 }
             }
+            //std::cout << "Final Value of seed " << i << " is: " << seed << endl;
+            if(seed < minimum)
+            {
+                minimum = seed;
+                minimum_location = i;
+            }
         }
-        std::cout << "Final Value of seed " << i << " is: " << parsedData[0][0][i] << endl;
+        std::cout << "progress: " << x << " out of "<< parsedData[0][0].size() << endl;
     }
-    long long minimum = parsedData[0][0][0];
-    for(int i = 0; i < parsedData[0][0].size(); i++)
-    {
-        if(parsedData[0][0][i] < minimum)
-        {
-            minimum = parsedData[0][0][i];
-        }
-    }
-    cout << "Minimum value is: " << minimum << endl;
+    cout << "Minimum value is: " << minimum << " with seed " << minimum_location << endl;
 
 
     return 0;
