@@ -1,0 +1,133 @@
+[33mcommit b308f593552582c7a2b0e2252a32242244f7b800[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigini/main[m[33m)[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Tue Dec 12 17:32:23 2023 +0100
+
+    removed input.txt files from upload to adhere to AoC recommendations
+
+[33mcommit 75ba99b08c0a3d34af49770f98d3fa620ec77598[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Tue Dec 12 17:30:50 2023 +0100
+
+    day 12
+
+[33mcommit 454c79e472bbe856107e3a6badfd1364b3003372[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Mon Dec 11 13:21:36 2023 +0100
+
+    Day 11
+
+[33mcommit ccde04a89bd7a4bca95eec4dbbd823eac7c6b25e[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Sun Dec 10 15:47:32 2023 +0100
+
+    Day 10
+
+[33mcommit 28decf5357b68b4ab4f4a8713c74d4b68ac7e9ce[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Sat Dec 9 06:41:54 2023 +0100
+
+    Day 9
+
+[33mcommit 3b10ab0cd17f9b6dd0632a6a523ee5d531bd6ea7[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Sat Dec 9 05:57:44 2023 +0100
+
+    day 8
+
+[33mcommit a4edcffaa3dd04854abef3247356841c09cb830c[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Thu Dec 7 12:29:03 2023 +0100
+
+    Day 7
+
+[33mcommit 680029ddbb690126b07470c4fe4ec9d70d0703d2[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Thu Dec 7 00:48:26 2023 +0100
+
+    day 6
+
+[33mcommit fcee1cb34d12f5e6c5e307777ae0c254106d5559[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Thu Dec 7 00:25:02 2023 +0100
+
+    5b
+
+[33mcommit 2ab1bacd6798d8aa0c9ea021352407f3a640aa81[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Wed Dec 6 23:16:07 2023 +0100
+
+    5a
+
+[33mcommit 6333b954d939e497701e6bf7c38c6895365da0b7[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Wed Dec 6 16:14:22 2023 +0100
+
+    --
+
+[33mcommit 035798157ec500acfe693417e9651c81eeaf4300[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Wed Dec 6 16:12:42 2023 +0100
+
+    updated readme
+
+[33mcommit a860beaf48db055026be153920f9c19cfc321b94[m
+Merge: f6de49d 00d8f6c
+Author: Lion Six <hey@lionsix.ch>
+Date:   Wed Dec 6 16:09:44 2023 +0100
+
+    Merge branch 'main' of https://github.com/snow2405/AoC2023
+
+[33mcommit f6de49dfcbd1ae46b2ec9fe3f6655dd7c95c2ceb[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Wed Dec 6 16:08:52 2023 +0100
+
+    renamed files
+
+[33mcommit 00d8f6c1831eebc21e079a32201fc468eaf3eba4[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Wed Dec 6 16:08:52 2023 +0100
+
+    day4
+
+[33mcommit 25a21b7896fefef11d01ec70aa0011beea3dfe01[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Wed Dec 6 15:09:56 2023 +0100
+
+    3b
+
+[33mcommit b96b386a5c0fbfe2968396d03b7e2f7ec420ca89[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Wed Dec 6 12:02:27 2023 +0100
+
+    day 3
+
+[33mcommit 56de95c4893a5a9be2f22317da1d4779f9f6fbcf[m
+Merge: 0684316 64f1da5
+Author: Lion Six <hey@lionsix.ch>
+Date:   Wed Dec 6 10:34:56 2023 +0100
+
+    Merge branch 'main' of https://github.com/snow2405/AoC2023
+
+[33mcommit 0684316f2e13da053ba27b0ac0a7b4783613b84c[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Wed Dec 6 10:33:26 2023 +0100
+
+    changed readme
+
+[33mcommit 64f1da572acfdb203ec8f775cab171bf527549c2[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Wed Dec 6 10:33:26 2023 +0100
+
+    Add Advent of Code 2023 solutions in C++
+
+[33mcommit 610fbf6e1aba67afb69c72e3f07d4b91a835cd98[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Wed Dec 6 10:32:24 2023 +0100
+
+    added readme
+
+[33mcommit 8e36dcaf3c52fd7746228af444f895a61d4a89e8[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Lion Six <hey@lionsix.ch>
+Date:   Wed Dec 6 10:26:41 2023 +0100
+
+    current commit
