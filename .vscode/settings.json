@@ -49,6 +49,7 @@
         "xtree": "cpp",
         "algorithm": "cpp",
         "fstream": "cpp",
-        "sstream": "cpp"
+        "sstream": "cpp",
+        "numeric": "cpp"
     }
 }
