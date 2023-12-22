@@ -51,5 +51,6 @@
         "fstream": "cpp",
         "sstream": "cpp",
         "numeric": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
